@@ -1,0 +1,604 @@
+1. Alzheimers Dement. 2026 Jun;22(6):e71606. doi: 10.1002/alz.71606.
+
+Choroid plexus remodeling linked to impaired CSF-mediated clearance and 
+Alzheimer's disease progression.
+
+Yin H(1)(2), Deng Y(1)(2), Lu Z(1)(2), Jiang Y(1), Zuo C(1)(2), Li J(1)(2), Guo 
+L(1)(2), Ying B(3), Battaglia G(1)(4)(5), Tian X(1)(2), Gong Q(1)(2)(6); 
+Alzheimer's Disease Neuroimaging Initiative (ADNI).
+
+Author information:
+(1)Xiamen Key Lab of Psychoradiology and Neuromodulation, Department of 
+Radiology, West China Hospital, West China Xiamen Hospital, Sichuan University, 
+Xiamen, Fujian, China.
+(2)Department of Radiology, Huaxi MR Research Center (HMRRC), Institute of 
+Radiology and Medical Imaging, Psychoradiology Key Laboratory of Sichuan 
+Province, West China Hospital of Sichuan University, Chengdu, Sichuan, China.
+(3)Department of Laboratory Medicine, West China Hospital, Sichuan University, 
+Chengdu, Sichuan, China.
+(4)Institute for Bioengineering of Catalonia, Barcelona Institute of Science and 
+Technology, Barcelona, Spain.
+(5)Catalan Institution for Research and Advanced Studies, Barcelona, Spain.
+(6)Research Unit of Psychoradiology, Chinese Academy of Medical Sciences, 
+Chengdu, Sichuan, China.
+
+INTRODUCTION: Impaired cerebrospinal fluid (CSF) -mediated clearance has been 
+implicated in Alzheimer's disease (AD), but how choroid plexus (ChP) remodeling 
+relates to these processes in vivo remains incompletely understood.
+METHODS: In a large ADNI cohort, we integrated structural magnetic resonance 
+imaging (MRI), amyloid/tau positron emission tomography (PET), and diffusion 
+tensor imaging (DTI) -derived analysis along the perivascular space (ALPS) to 
+characterize ChP changes and their associations with ventricular measures, 
+glymphatic marker, CSF biomarkers, and cognition across diagnostic stages. Our 
+experiments in APP/PS1 mice complemented human analyses.
+RESULTS: ChP volume increased with disease stage, while PET signal decreased. 
+Larger ChP volume was associated with ventricular enlargement, a lower ALPS 
+index, higher cortical amyloid/tau burden, and worse cognitive performance. 
+Glymphatic impairment partially mediated ChP effects on cognition and pathology. 
+APP/PS1 mice recapitulated the key ChP and glymphatic MRI phenotypes observed in 
+humans, alongside altered expression and localization of key proteins.
+DISCUSSION: ChP remodeling linked to impaired CSF-mediated clearance, 
+highlighting its role as an early diagnostic and therapeutic target.
+
+© 2026 The Author(s). Alzheimer's & Dementia published by Wiley Periodicals LLC 
+on behalf of Alzheimer's Association.
+
+DOI: 10.1002/alz.71606
+PMID: 42325001
+
+
+2. Alzheimers Dement. 2026 Jun;22(6):e71611. doi: 10.1002/alz.71611.
+
+Blood-based proteomic signature of amyloidosis: identification of novel 
+regulators of amyloid load.
+
+Chen Y(1)(2), Duggan MR(3), Timsina J(1)(2), Xu Y(1)(2), Western D(1)(2), Gong 
+K(1)(2), Liu M(1)(2), Budde J(1)(2), Schindler SE(4), Morris JC(4), Holtzman 
+DM(4), Benzinger TLS(5), Gordon BA(4), Moqri M(6); Knight Alzheimer Disease 
+Research Center (Knight‐ADRC)(7); Ibanez L(1)(2)(4)(8), Walker KA(3), Cruchaga 
+C(1)(2)(4)(8)(9), Ali M(1)(2).
+
+Author information:
+(1)Department of Psychiatry, Washington University School of Medicine, St. 
+Louis, Missouri, USA.
+(2)NeuroGenomics and Informatics Center, Washington University School of 
+Medicine, St. Louis, Missouri, USA.
+(3)Laboratory of Behavioral Neuroscience, National Institute on Aging, 
+Baltimore, Maryland, USA.
+(4)Department of Neurology, Washington University School of Medicine, St. Louis, 
+Missouri, USA.
+(5)Department of Radiology, Washington University School of Medicine, St. Louis, 
+Missouri, USA.
+(6)Division of Genetics, Department of Medicine, Brigham and Women's Hospital, 
+Harvard Medical School, Boston, Massachusetts, USA.
+(7)Knight Alzheimer's Disease Research Center, Washington University, St. Louis, 
+Missouri, USA.
+(8)Hope Center for Neurological Disorders, Washington University, St. Louis, 
+Missouri, USA.
+(9)Department of Genetics, Washington University School of Medicine, St. Louis, 
+Missouri, USA.
+
+INTRODUCTION: Cerebral amyloidosis is a defining feature of Alzheimer's disease 
+(AD), yet the molecular heterogeneity among amyloidbeta-positive (Aβ+) 
+individuals remains poorly defined. We aimed to map the proteomic correlates of 
+cerebral amyloidosis and link them to clinical variability within Aβ+ 
+individuals.
+METHODS: We integrated quantitative amyloid PET with large-scale plasma 
+proteomics (∼7000 proteins; SomaScan version 4.1) in Knight Alzheimer's Disease 
+Research Center and Bio-Hermes cohorts (n = 1429). Proteome-wide association 
+analyses identified proteins associated with amyloid load, followed by 
+unsupervised clustering and pathway enrichment analyses.
+RESULTS: We identified 454 amyloid-associated proteins, of which 54 replicated 
+cross-cohort. A derived 54-protein proteomic score correlated with amyloid 
+burden, AD biomarkers, and clinical severity. Pathway analyses of clinically 
+distinct protein clusters revealed coordinated enrichment of intracellular 
+signaling, immune, and proteostasis modules.
+DISCUSSION: These findings delineate the circulating proteomic signature of 
+cerebral amyloidosis and support plasma proteomics as a complementary approach 
+to phosphorylated tau at threonine 217 and amyloid PET for biological 
+stratification and characterization of disease heterogeneity in AD.
+
+© 2026 The Author(s). Alzheimer's & Dementia published by Wiley Periodicals LLC 
+on behalf of Alzheimer's Association.
+
+DOI: 10.1002/alz.71611
+PMID: 42325000
+
+
+3. Ageing Res Rev. 2026 Jun 21:103211. doi: 10.1016/j.arr.2026.103211. Online
+ahead  of print.
+
+Cell-Specific MicroRNA Networks Orchestrate the Pathogenesis of Alzheimer's 
+Disease.
+
+Donepudi K(1), Eadha S(1), Rodarte D(1), Sharma B(1), Kumar S(2).
+
+Author information:
+(1)Center of Emphasis in Neuroscience, Department of Molecular and Translational 
+Medicine, Paul L. Foster School of Medicine, Texas Tech University Health 
+Sciences Center El Paso, El Paso, Texas, USA 79905.
+(2)Center of Emphasis in Neuroscience, Department of Molecular and Translational 
+Medicine, Paul L. Foster School of Medicine, Texas Tech University Health 
+Sciences Center El Paso, El Paso, Texas, USA 79905; L. Frederick Francis 
+Graduate School of Biomedical Sciences, Texas Tech University Health Sciences 
+Center El Paso, El Paso, Texas, USA 79905. Electronic address: 
+subodh.kumar@ttuhsc.edu.
+
+Alzheimer's disease (AD) is a progressive neurodegenerative disorder marked by 
+extracellular amyloid-β (Aβ) plaques, intracellular neurofibrillary tangles of 
+hyperphosphorylated tau, synaptic dysfunction, and chronic neuroinflammation. AD 
+pathogenesis involves multiple central nervous system (CNS) cell types-including 
+neurons, astrocytes, microglia, and oligodendrocytes, and, less prominently, 
+neural stem cells (NSCs), ependymal cells, and endothelial cells-which undergo 
+coordinated but cell-type-specific pathological changes. These include neuronal 
+loss, reactive gliosis, impaired myelin maintenance, reduced neurogenesis, and 
+blood-brain barrier (BBB) dysfunction. MicroRNAs (miRNAs), the small non-coding 
+RNAs that regulate post-transcriptional gene expression, have emerged as key 
+modulators of these cell-specific processes and are consistently dysregulated in 
+AD. Across AD-vulnerable brain regions and CNS cell types, miRNAs influence 
+amyloid and tau biology, synaptic resilience, glial activation states, myelin 
+structure, neurogenic potential, and vascular homeostasis. Dysregulated miRNAs 
+also act across cell types through extracellular vesicle (EV) transfer, 
+amplifying or mitigating amyloidogenesis, tauopathy, neuroinflammation, and 
+white-matter injury. This review provides a comprehensive, cell-type-specific 
+analysis of miRNAs involved in AD, detailing their roles in neurons, astrocytes, 
+microglia, oligodendrocytes, NSCs, ependymal cells, and endothelial cells. We 
+highlight common miRNAs that function across multiple CNS cell types and examine 
+the potential of circulating and cerebrospinal fluid (CSF) miRNAs as minimally 
+invasive biomarkers. Finally, we discuss therapeutic strategies aimed at 
+restoring protective miRNAs or inhibiting pathogenic miRNAs, emphasizing the 
+need for targeted interventions. By integrating pathways of miRNA dysregulation 
+across CNS cell types, this review underscores the central role of miRNA 
+networks in AD pathogenesis and the promise of precise, cell-specific miRNA 
+modulation.
+
+Copyright © 2026. Published by Elsevier B.V.
+
+DOI: 10.1016/j.arr.2026.103211
+PMID: 42324031
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper. Conflicts Of Interest The authors declare no conflict of interest.
+
+
+4. J Neurol. 2026 Jun 20;273(7):409. doi: 10.1007/s00415-026-13954-3.
+
+Plasma p-Tau217 and Aβ42/Aβ40 mediate the association between minimal depressive 
+symptoms and cognitive impairment.
+
+Chen Y(1)(2), Wang Z(3), Chen H(1)(2), Li H(1)(2), Zhang Z(1)(2), Cui 
+H(1)(2)(4), Li S(5)(6)(7); Alzheimer’s Disease Neuroimaging Initiative.
+
+Author information:
+(1)Department of Human Anatomy, Neuroscience Research Center, Hebei Medical 
+University, Shijiazhuang, 050017, China.
+(2)Hebei Key Laboratory of Neurodegenerative Disease Mechanism, Shijiazhuang, 
+050017, China.
+(3)Innovation Center for Neurological Disorders and Department of Neurology, 
+National Center for Neurological Disorders, Xuanwu Hospital, Capital Medical 
+University, Beijing, 100053, China.
+(4)The Key Laboratory of Neural and Vascular Biology of Ministry of Education, 
+Shijiazhuang, 050017, China.
+(5)Department of Human Anatomy, Neuroscience Research Center, Hebei Medical 
+University, Shijiazhuang, 050017, China. lisha@hebmu.edu.cn.
+(6)Hebei Key Laboratory of Neurodegenerative Disease Mechanism, Shijiazhuang, 
+050017, China. lisha@hebmu.edu.cn.
+(7)The Key Laboratory of Neural and Vascular Biology of Ministry of Education, 
+Shijiazhuang, 050017, China. lisha@hebmu.edu.cn.
+
+Depression is a recognized risk factor and potential prodromal feature of 
+Alzheimer's disease (AD). While associations between depressive symptoms and AD 
+pathology have been observed using cerebrospinal fluid (CSF) and PET imaging, it 
+remains unclear whether these relationships can be captured by accessible plasma 
+biomarkers, particularly the highly specific phosphorylated tau-217 (p-Tau217). 
+We analyzed 615 participants from Alzheimer's disease Neuroimaging Initiative 
+(ADNI) cohort, of whom 374 had minimal depressive symptoms (MDS). Plasma 
+biomarkers included phosphorylated tau-217 (p-Tau217), amyloid-β 42/40 ratio 
+(Aβ42/Aβ40), neurofilament light chain (NfL), and glial fibrillary acidic 
+protein (GFAP). Linear regression models and mediation analyses were employed to 
+examine associations between MDS, plasma biomarkers (p-Tau217, Aβ42/Aβ40, NfL, 
+and GFAP), and cognitive impairment, with adjustments for age, sex, and APOE ε4 
+carrier status. Participants with MDS demonstrated significantly elevated plasma 
+p-Tau217 levels (mean difference = 0.105, 95% CI [0.046, 0.163]; P < 0.001) and 
+reduced Aβ42/Aβ40 (mean difference = -0.024, 95% CI [-0.041, -0.006]; P = 0.007) 
+compared with those without MDS. These associations were primarily observed in 
+non-demented individuals and influenced by age, sex, and APOE ε4 status. In 
+mediation analyses, plasma p-Tau217 accounted for 41.57%-42.18% of the 
+association between MDS and cognitive impairment, while Aβ42/Aβ40 mediated 
+7.13%-8.45% of this relationship. Plasma biomarkers of p-Tau217 and Aβ42/Aβ40 
+were associated with early depressive symptoms and mediate their associations 
+with cognitive impairment. These findings identify plasma p-Tau217 as a key 
+mediator linking MDS to cognitive impairment, extending evidence from CSF to 
+accessible blood-based biomarkers. This highlights the value of monitoring 
+plasma p-Tau217 and Aβ42/Aβ40 to unravel the pathological basis of depressive 
+symptoms in early AD.
+
+© 2026. Springer-Verlag GmbH Germany, part of Springer Nature.
+
+DOI: 10.1007/s00415-026-13954-3
+PMID: 42323462 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethical approval and consent to 
+participate: Written informed consent was obtained from all ADNI participants, 
+and ADNI received approval from the institutional review boards at all 
+participating institutions. Consent for publication: Not applicable. Conflicts 
+of interest: The authors declare no conflicts of interest.
+
+
+5. Brain. 2026 Jun 20:awag207. doi: 10.1093/brain/awag207. Online ahead of print.
+
+Diagnostic impact of tau versus amyloid PET in patients with cognitive symptoms.
+
+Xin JW(1)(2), Wang ZY(1), Guo Y(1), Chen KL(1), Lu JY(3), Wang J(1)(4), Huang 
+YY(1), Wang MY(5), Peng BH(2), Chen YL(1), Chen SF(1), Cheng W(6), Yen TC(7), 
+Wischik CM(8), Cui M(1), Zuo CT(3), Zhao QH(1), Chen XC(2), Yu JT(1).
+
+Author information:
+(1)Department of Neurology and National Center for Neurological Disorders, 
+Huashan Hospital, State Key Laboratory of Medical Neurobiology and MOE Frontiers 
+Center for Brain Science, Shanghai Medical College, Fudan University, Shanghai 
+200040, China.
+(2)Department of Neurology, Fujian Medical University Union Hospital, Fujian Key 
+Laboratory of Molecular Neurology and Institute of Neuroscience, Fujian Medical 
+University, Fuzhou 350001, China.
+(3)Department of Nuclear Medicine and PET Center, Huashan Hospital, Fudan 
+University, Xuhui District, Shanghai 200040, China.
+(4)Department of Neurology and Center for Clinical Neuroscience, Daping 
+Hospital, Third Military Medical University, Chongqing 400042, China.
+(5)Departments of Neurology, Weifang People's Hospital, Weifang, Shandong 
+261041, China.
+(6)Institute of Science and Technology for Brain-Inspired Intelligence, Fudan 
+University, Shanghai 200433, China.
+(7)Department of Nuclear Medicine and Center for Advanced Molecular Imaging and 
+Translation, Chang Gung Memorial Hospital, Linkou Medical Center, Taoyuan 333, 
+Taiwan.
+(8)Institute of Medical Sciences, University of Aberdeen, Aberdeen AB25 2ZD, UK.
+
+The diagnostic efficacy of tau positron emission tomography (PET) relative to 
+amyloid PET in memory clinic settings remains underexplored. In this study, 1008 
+consecutive Han Chinese individuals with cognitive impairments were recruited 
+between March 2020 and July 2025. They underwent comprehensive clinical 
+assessment, amyloid PET, and tau PET. Diagnostic reclassification, accuracy, and 
+changes in diagnostic confidence were evaluated across cognitive stages and 
+etiologic categories. For Alzheimer's disease (AD) diagnosis, tau PET 
+demonstrated high sensitivity (97.8%) and specificity (95.4%), showing 
+substantial agreement with amyloid PET. Moreover, tau PET provided additional 
+information beyond that offered by amyloid PET alone. In patients clinically 
+diagnosed with non-AD disorders, tau PET led to a significantly higher rate of 
+diagnostic change compared with amyloid PET (p = 0.018). After a diagnosis based 
+on amyloid PET results, the subsequent addition of tau PET information still 
+resulted in a diagnostic change in 10.0% of patients, highlighting its 
+incremental value. Furthermore, tau PET significantly improved diagnostic 
+confidence (from 68.6% to 84.2%), and the confidence gained from tau PET was 
+significantly greater than that from amyloid PET alone within non-AD diseases. 
+Our findings suggest tau PET offers diagnostic performance for AD comparable to 
+that of amyloid PET, while providing additional value in detecting non-AD 
+tauopathies and clarifying complex cases. These observations support the 
+potential for tau PET to complement existing diagnostic workflows in memory 
+clinic settings.
+
+© The Author(s) 2026. Published by Oxford University Press on behalf of the 
+Guarantors of Brain. All rights reserved. For commercial re-use, please contact 
+reprints@oup.com for reprints and translation rights for reprints. All other 
+permissions can be obtained through our RightsLink service via the Permissions 
+link on the article page on our site—for further information please contact 
+journals.permissions@oup.com.
+
+DOI: 10.1093/brain/awag207
+PMID: 42322643
+
+
+6. J Phys Chem B. 2026 Jun 20. doi: 10.1021/acs.jpcb.6c01124. Online ahead of 
+print.
+
+Molecular Basis of Synergistic Tau Amyloid Core Inhibition by K311/K353 
+Acetylation via Microsecond MD Simulations.
+
+Wu J(1), He X(1), Fu M(2), Liu Y(1), Su W(1), Li R(1), Xu M(1), Chan KC(3), 
+Huang D(1), Wu S(1).
+
+Author information:
+(1)Wisdom Lake Academy of Pharmacy, Xi'an Jiaotong-Liverpool University, Suzhou 
+215123, China.
+(2)Taiji Group Sichuan Mianyang Pharmaceutical Co., Ltd., Mianyang 621000, 
+China.
+(3)School of Science, Xi'an Jiaotong-Liverpool University, Suzhou 215123, China.
+
+Neurofibrillary tangles, composed of aggregated Tau proteins, are a pathological 
+hallmark of Alzheimer's disease (AD). Within these tangles, the amyloid core is 
+primarily formed by the microtubule-binding (MTB) repeats. Although 
+site-specific acetylation has been implicated in the regulation of Tau 
+aggregation, the atomic-level mechanisms by which individual acetylation events 
+modulate the structure and interactions of amyloid-forming motifs remain 
+incompletely understood. In particular, whether dual acetylation events may act 
+cooperatively during early Tau assembly is still unclear. In this study, we used 
+microsecond-scale all-atom molecular dynamics simulations to systematically 
+examine the dimerization dynamics of the four Tau MTB repeat homodimers (R1-R4). 
+Our simulations suggest that the relatively higher aggregation propensity of R3 
+and R4 may be associated with amyloidogenic, β-sheet-prone core sequences, in 
+which the key lysine residues K311 and K353 are located. Further analysis 
+indicates that acetylation at these sites attenuates early Tau dimerization: 
+K353 acetylation appears to moderately destabilize the R4 dimer through steric 
+effects and the disruption of intrachain salt bridges, resulting in a more 
+disordered conformational ensemble. K311 acetylation shows a more pronounced 
+inhibitory effect on R3 dimerization by neutralizing the positive charge of K311 
+and weakening key interchain salt bridges and π-cation interactions associated 
+with the PHF6 motif. Notably, dual acetylation of K311 and K353 in the R3-R4 
+dimer produces a stronger-than-additive reduction in β-sheet formation. This 
+potential synergistic effect arises from the combined disruption of the 
+hydrophobic core and distal electrostatic interaction networks. In summary, our 
+results provide a molecular-level explanation for how acetylation at K311 and 
+K353 cooperatively modulates Tau dimerization and early amyloid nucleation, 
+offering mechanistic insight into the role of lysine acetylation in Tau 
+aggregation.
+
+DOI: 10.1021/acs.jpcb.6c01124
+PMID: 42322588
+
+
+7. Geroscience. 2026 Jun 20. doi: 10.1007/s11357-026-02333-5. Online ahead of 
+print.
+
+A local-to-distant shift in dynamic brain connectivity marks early Alzheimer's 
+risk.
+
+Coca-Pulido A(1), Solis-Urra P(2)(3), Contreras-Rodríguez O(4)(5)(6)(7), Biarnés 
+C(8), Olvera-Rojas M(9), Jain S(2), Sehrawat A(10), Chen Y(11), García-Rivero 
+Y(12), Gomez-Rio M(12), Erickson KI(2), Mora-Gonzalez J(9), Esteban-Cornejo 
+I(13)(14)(15).
+
+Author information:
+(1)Department of Physical Education and Sports, Faculty of Sport Sciences, Sport 
+and Health University Research Institute (iMUDS), University of Granada, 
+Granada, Spain. acocapulido@ugr.es.
+(2)AdventHealth Research Institute, Neuroscience, Orlando, FL, USA.
+(3)Faculty of Education and Social Sciences, Universidad Andres Bello, Viña del 
+Mar, 2531015, Chile.
+(4)Department of Psychiatry and Forensic Medicine, Universitat Autònoma de 
+Barcelona (UAB), Bellaterra, Spain.
+(5)Institute of Neuroscience, Universitat Autònoma de Barcelona (Inc-UAB), 
+Bellaterra, Spain.
+(6)Institut d'Investigació, Innovació Parc Taulí (i3PT), Sabadell, Spain.
+(7)CIBER de Salud Mental, Instituto de Salud Carlos III, Madrid, Spain.
+(8)Department of Radiology-Medical Imaging (IDI), Dr. Josep, Girona Biomedical 
+Research Institute (IdIBGi), Trueta University Hospital, Girona, Spain.
+(9)Department of Physical Education and Sports, Faculty of Sport Sciences, Sport 
+and Health University Research Institute (iMUDS), University of Granada, 
+Granada, Spain.
+(10)Department of Psychiatry, School of Medicine, University of Pittsburgh, 
+Pittsburgh, PA, 15213, USA.
+(11)Chemistry Department, University of Pittsburgh, Pittsburgh, PA, USA.
+(12)Servicio de Medicina Nuclear, Hospital Universitario Virgen de Las Nieves, 
+18014, Granada, Spain.
+(13)Department of Physical Education and Sports, Faculty of Sport Sciences, 
+Sport and Health University Research Institute (iMUDS), University of Granada, 
+Granada, Spain. ireneesteban@ugr.es.
+(14)Centro de Investigación Biomédica en Red Fisiopatología de La Obesidad y 
+Nutrición (CIBERobn), Instituto de Salud Carlos III, 28029, Madrid, Spain. 
+ireneesteban@ugr.es.
+(15)Instituto de Investigación Biosanitaria Ibs. GRANADA, Granada, Spain. 
+ireneesteban@ugr.es.
+
+Alzheimer's disease (AD) involves early disruptions in brain connectivity, yet 
+how AD risk markers relate to resting-state dynamic functional connectivity 
+(rs-dFC) remains unclear. We examined associations of AD pathology, genetic 
+risk, and blood-based biomarkers (BBMs) of neurodegeneration with local and 
+distant rs-dFC in cognitively normal older adults and explored links with 
+cognitive performance. Baseline data from 86 cognitively normal older adults in 
+the AGUEDA trial (NCT05186090) were analyzed. Participants underwent 
+amyloid-beta (Aβ)-PET, APOE4 genotyping, and plasma BBM quantification (Aβ42/40, 
+BD-tau, GFAP, NfL, p-tau181, and p-tau217). rs-fMRI was used to compute 
+voxel-wise local and distant rs-dFC using a stepwise connectivity framework. 
+Models tested associations between AD markers and rs-dFC adjusting for age, sex, 
+and education; secondary models examined extracted cluster values and six 
+cognitive domains. Aβ-positive individuals and APOE4 carriers showed lower local 
+connectivity in frontal regions. APOE4 carriers also exhibited higher distant 
+connectivity in the superior motor area, inferior frontal gyrus, and anterior 
+insula. Among BBMs, only NfL was associated with both lower local (insula and 
+cingulate) and higher distant (precuneus, putamen, thalamus, supramarginal, and 
+superior motor area) connectivity. Secondary analyses suggested additional 
+cluster-cognition associations. Across AD risk markers, higher risk 
+(Aβ-positivity, APOE4 carriage, and higher NfL) converged on a consistent rs-dFC 
+signature characterized by reduced local and increased distant connectivity. 
+This local-to-distant shift may serve as a candidate functional marker of early 
+AD-related network vulnerability in cognitively normal aging and could support 
+risk monitoring and stratification pending longitudinal validation.
+
+© 2026. The Author(s).
+
+DOI: 10.1007/s11357-026-02333-5
+PMID: 42322546
+
+Conflict of interest statement: Declarations. Competing interests: Kirk I. 
+Erickson has served as a consultant for NeoAuvra, Inc. and MedRhythms, Inc. 
+These affiliations are unrelated to the current study. The remaining authors 
+declare no competing interests.
+
+
+8. Mol Neurobiol. 2026 Jun 20;63(1):708. doi: 10.1007/s12035-026-06003-7.
+
+IL-4 in Alzheimer's Disease-Mechanisms and Therapeutic Potential.
+
+Liu G(1), Li W(1)(2), Chen J(1), Xu S(1), Liu X(3), Wang Z(1), Yang Q(1), Xie 
+A(1), Du Y(4)(5).
+
+Author information:
+(1)College of Acupuncture-Moxibustion and Orthopaedics, Hubei University of 
+Chinese Medicine, Wuhan, 430061, Hubei, China.
+(2)College of Chinese Medicine, Hubei University of Chinese Medicine, Wuhan, 
+430061, China.
+(3)Pathology & Pathophysiology Department, Basic Medicine School, Key Laboratory 
+of Neurological Diseases of Hubei Province and National Education Ministry, 
+Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 
+430030, China.
+(4)College of Acupuncture-Moxibustion and Orthopaedics, Hubei University of 
+Chinese Medicine, Wuhan, 430061, Hubei, China. yjdu-acu@hbucm.edu.cn.
+(5)Hubei Shizhen Laboratory, Wuhan, 430065, Hubei, China. yjdu-acu@hbucm.edu.cn.
+
+Alzheimer's disease (AD) is a progressive neurodegenerative disorder 
+characterized by the pathological hallmarks of amyloid-beta (Aβ) plaques and 
+neurofibrillary tangles composed of hyperphosphorylated tau protein. 
+Neuroinflammation, driven largely by glial cells, is now recognized as a 
+critical player in AD pathogenesis, contributing to both initiation and 
+progression. Recent studies have indicated that interleukin-4 (IL-4), an 
+anti-inflammatory cytokine with powerful immunomodulatory functions, facilitates 
+the resolution of neuroinflammation. However, other research findings suggest 
+that intervention with IL-4 might also exacerbate the course of AD, which 
+complicates the understanding of the role of IL-4 in AD. Hence, this review 
+comprehensively examines the complex and dualistic role of IL-4 in AD. We begin 
+by outlining the contribution of IL-4 to the innate immunity of the brain, 
+including the biological characteristics of IL-4, the main responsive cells in 
+the central nervous system, and the directly activated signaling pathways. Next, 
+we explored the dualistic role of IL-4 in AD from four perspectives: its impact 
+on the clearance of amyloid plaques, its effect on the phosphorylation of the 
+tau protein, its regulation of neuroinflammation, and its effects on 
+neuroprotection. Finally, we summarize the current research status of the use of 
+IL-4 as a therapeutic target to regulate immune function, alleviate 
+neuroinflammation, and improve AD, as well as the future challenges of this 
+approach as a therapeutic strategy for AD.
+
+© 2026. The Author(s), under exclusive licence to Springer Science+Business 
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s12035-026-06003-7
+PMID: 42322365 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: Not applicable. Consent for publication: Not applicable. Competing 
+interests: The authors declare no competing interests.
+
+
+9. Expert Opin Emerg Drugs. 2026 Jun 20. doi: 10.1080/14728214.2026.2693701.
+Online  ahead of print.
+
+Evaluating emerging amyloid-β centric drugs for the treatment of Alzheimer's 
+disease.
+
+Lozupone M(1)(2), Dibello V(3)(4), Sardone R(5), Zupo R(3), Castellana F(3), 
+Bortone I(5), Lampignano L(3), Di Matteo M(1)(2), Moramarco G(1), Dellegrazie 
+F(6), Daniele A(7)(8), Solfrizzi V(3), Panza F(1)(3).
+
+Author information:
+(1)Local Health Authority of Bari, Bari, Italy.
+(2)Department of Translational Biomedicine and Neuroscience "DiBrain", 
+University of Bari Aldo Moro, Bari, Italy.
+(3)"Cesare Frugoni" Internal and Geriatric Medicine and Memory Unit, University 
+of Bari "Aldo Moro", Bari, Italy.
+(4)Department of Orofacial Pain and Dysfunction, Academic Centre for Dentistry 
+Amsterdam (ACTA), University of Amsterdam and Vrije Universiteit Amsterdam, 
+Amsterdam, The Netherlands.
+(5)Unit of Research, Innovation and Technology Transfer, Local Healthcare 
+Authority of Taranto, Taranto, Italy.
+(6)Center for Cognitive Disorders and Dementia (CCDD), Local Healthcare 
+Authority of Bari, Bari, Italy.
+(7)Department of Neuroscience, Catholic University of Sacred Heart, Rome, Italy.
+(8)Neurology Unit, IRCCS Fondazione Policlinico Universitario A. Gemelli, Rome, 
+Italy.
+
+INTRODUCTION: The amyloid cascade hypothesis provided a compelling rationale for 
+Alzheimer's disease (AD) drug development, but many amyloid-β (Aβ)-targeted 
+agents failed to show benefit. The present review article evaluated emerging 
+Aβ-directed therapies, focusing on mechanisms, clinical efficacy, safety, and 
+regulatory progress.
+AREAS COVERED: The recent approvals of lecanemab and donanemab offered the first 
+convincing evidence that reducing Aβ burden can modestly slow cognitive decline 
+in early AD. Beyond these first-generation monoclonal antibodies, the pipeline 
+includes next-generation antibodies with enhanced brain penetration 
+(trontinemab), therapies designed also for presymptomatic intervention 
+(remternetug tested for secondary prevention), and novel approaches targeting 
+galectin-3 to disrupt Aβ aggregation and neuroinflammation. Active 
+immunotherapies like UB-311 and small molecules such as ALZ-801, avoiding 
+amyloid-related imaging abnormalities (ARIA), broaden the therapeutic horizon 
+with potentially safer and more accessible options, but with no proven efficacy.
+EXPERT OPINION: Clinical benefits for Aβ-centric therapies are modest, ARIA pose 
+ongoing safety concerns, and high costs coupled with intensive monitoring limit 
+accessibility. Regulators have begun to restrict approval to genetically defined 
+subgroups according to apolipoprotein E genotype, underscoring the need for 
+precision medicine. Therefore, while Aβ-centric therapies are incremental, they 
+represent essential steps toward combination and precision strategies in the 
+treatment of AD.
+
+Plain Language Summary: Alzheimer’s disease (AD) is a growing global health 
+problem, with no cure currently available. Most existing treatments only relieve 
+symptoms and do not slow the underlying disease process. One of the earliest and 
+most important biological changes in AD is the buildup of amyloid-β (Aβ), a 
+protein that forms plaques in the brain. For this reason, many new drugs have 
+been designed to remove Aβ or prevent it from accumulating. In recent years, 
+several Aβ–targeting therapies have shown that they can successfully reduce 
+amyloid plaques in the brain. These include monoclonal antibodies given by 
+infusion or injection, vaccines that stimulate the immune system, and oral drugs 
+designed to block the formation of toxic Aβ species. Some of these treatments 
+have reached late-stage clinical trials, and a few have received regulatory 
+approval in certain regions. However, while these drugs clearly reduce amyloid 
+levels, their effects on memory and daily functioning are modest, especially 
+when used after symptoms have already appeared. In addition, treatment can be 
+associated with side effects such as brain swelling or small brain bleeds, 
+requiring frequent medical monitoring, costly for healthcare systems. Most 
+evidence so far comes from carefully controlled randomized clinical trials, and 
+real-world experience remains limited. Current research is therefore shifting 
+toward earlier treatment, including prevention in people at high risk, improved 
+drug delivery methods, and combination approaches that also target other disease 
+processes such as tau pathology, inflammation, and vascular or metabolic 
+changes. New blood-based biomarkers are also making it easier to diagnose AD 
+earlier and to select patients more precisely. Overall, Aβ–centered therapies 
+represent an important scientific advance, but they are unlikely to be 
+sufficient on their own. Future progress in AD treatment will depend on better 
+understanding how amyloid may interact with other brain changes, identifying the 
+right patients at the right time, and developing safer, more affordable, and 
+more comprehensive therapeutic strategies.
+
+DOI: 10.1080/14728214.2026.2693701
+PMID: 42322185
+
+
+10. Eur J Med Chem. 2026 Jun 17;316:119075. doi: 10.1016/j.ejmech.2026.119075. 
+Online ahead of print.
+
+Single molecule, dual actions: GSK-3β/AChE dual inhibition for Alzheimer's 
+disease.
+
+Dong L(1), Yang J(1), Meng Y(1), Yang S(1), Pan C(1), Luo F(1), Long H(1), Lv 
+S(1), Gong Y(1), Xu J(2), Xiong Y(3), Dong Y(4).
+
+Author information:
+(1)State Key Laboratory of Discovery and Utilization of Functional Components in 
+Traditional Chinese Medicine & School of Pharmaceutical Sciences, Guizhou 
+Medical University, Guian New District, 561113, China.
+(2)School of Public Health, Guizhou Medical University, Guian New District, 
+561113, China. Electronic address: xujuan@whu.edu.cn.
+(3)School of Basic Medical Sciences, Guizhou Medical University, Guian New 
+District, 561113, China. Electronic address: xiongying-jn@gmc.edu.cn.
+(4)State Key Laboratory of Discovery and Utilization of Functional Components in 
+Traditional Chinese Medicine & School of Pharmaceutical Sciences, Guizhou 
+Medical University, Guian New District, 561113, China. Electronic address: 
+dongyongxi@gmc.edu.cn.
+
+The pathogenesis of Alzheimer's disease (AD) is closely related with glycogen 
+synthase kinase 3β (GSK-3β) and acetylcholinesterase (AChE). Our previous work 
+verified that GL10a displayed superior GSK-3β inhibitory and neuroprotective 
+activities relative to Tideglusib. Accordingly, a molecular hybridization 
+strategy was applied to design and synthesize a series of dual target inhibitors 
+against GSK-3β and AChE by conjugating GL10a and carbamate fragment of 
+Rivastigmine's pharmacophore. After in vitro evaluations, the compound AJ-4 was 
+screened as the most remarkable compound with potent inhibitory activities 
+against GSK-3β (IC50: 4.7 nM) and AChE (IC50: 2.97 μM). Meanwhile, in vitro and 
+in vivo data revealed that the optimal compound AJ-4 with excellent enzyme 
+selectivity could decrease amyloid precursor protein (APP) and phosphorylated 
+Tau expressions and increase phosphorylated GSK-3β levels. With favorable 
+pharmacokinetic characteristics and tissue distribution, AJ-4 obviously 
+ameliorated scopolamine-induced learning and memory impairments and alleviated 
+hippocampal neuronal injury in AD mice. In conclusion, GSK-3β/AChE dual 
+inhibitors represent a promising strategy for developing multi-target anti-AD 
+drugs.
+
+Copyright © 2026 Elsevier Masson SAS. All rights reserved.
+
+DOI: 10.1016/j.ejmech.2026.119075
+PMID: 42320199
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
